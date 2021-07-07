@@ -10,3 +10,5 @@ https://github.com/42School/norminette/tree/master/pdf
 Apart from the libc functions, we are asked to code some "extra functions", that needs us to use a little bit more of our brains.
 
 The bonus part is focused on linked lists, a new concept for us at 42 (because we already recoded some of the libc functions during the basecamp.
+
+We also learned about Makefile and Header files.
