@@ -39,3 +39,4 @@ int	ft_atoi(const char *nptr)
 		index++;
 	}
 	return (res * sign);											//Returns the signal with the right signal
+}
